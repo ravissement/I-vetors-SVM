@@ -6,9 +6,10 @@ SVM model using i-vector
 
 다차원의 벡터형태를 200에서 400차원의 형태로 변환.<br>
 대상화자가 아닌 일반적인 배경 화자들의 발성 특징 분포를 표현하는 하나의 모델(UBM)을 통해서 평균만 재학습해서 나온 다차원의 GSV를 200~400차원의 i-vector(identity vector) 형태로 변환하는 작업을 말함.
-<a href="https://www.slideshare.net/NaverEngineering/ss-117073508">>References</a>
+><a href="https://www.slideshare.net/NaverEngineering/ss-117073508">References</a>
 
-#### kaldi(pykaldi)라는 Python에서 제공하는 툴로 추출이 가능함. <a href="https://kaldi-asr.org/doc/">>kaldi</a>
+#### kaldi(pykaldi)라는 Python에서 제공하는 툴로 추출이 가능함.  
+><a href="https://kaldi-asr.org/doc/">kaldi</a>
 
 ## i-vector history
 ![image](https://user-images.githubusercontent.com/57596337/150733209-4acbd21d-6679-4d00-9239-17d14335a4ce.png)
