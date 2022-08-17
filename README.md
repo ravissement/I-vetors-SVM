@@ -1,5 +1,8 @@
 # I-vetors-SVM
-SVM model using i-vector
+SVM model using i-vector. <br>
+AI-Hub에 등재된 정신건강진단 멀티모달 데이터 학습모델. <br>
+Link URL : <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=573">AI-Hub</a>
+
 ## i-vectors
 전체 가변 행렬을 이용해 GSV(Gaussian Mixture Model Super Vector)를 낮은 차수로 표현함. <br>
 즉, Gaussian mixture model (GMM) 슈퍼벡터를 하나의 Total-variability 공간으로 표현함. <br> <br>
@@ -18,3 +21,6 @@ SVM model using i-vector
 
 ## Purpose
 추출한 i-vector 특징을 SVM으로 학습시켜 정확도(pos label, f1-score etc..)를 검증.
+
+
+
