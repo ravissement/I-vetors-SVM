@@ -1,6 +1,6 @@
 # I-vetors-SVM
 SVM model using i-vector. <br>
-AI-Hub에 등재된 정신건강진단 멀티모달 데이터 학습모델. <br>
+AI-Hub에 등재된 정신건강진단 및 예측을 위한 멀티모달 데이터 학습모델. <br>
 Link URL : <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=573">AI-Hub</a>
 
 ## i-vectors
