@@ -20,7 +20,7 @@ Link URL : <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&
 ![image](https://user-images.githubusercontent.com/57596337/150732732-47821709-af78-4942-ba50-a96e9ce1b969.png)
 
 ## Purpose
-추출한 i-vector 특징을 SVM으로 학습시켜 정확도(pos label, f1-score etc..)를 검증.
+추출한 i-vector 특징을 SVM 모델 학습.
 
 
 
