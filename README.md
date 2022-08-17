@@ -11,7 +11,7 @@ Link URL : <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&
 대상화자가 아닌 일반적인 배경 화자들의 발성 특징 분포를 표현하는 하나의 모델(UBM)을 통해서 평균만 재학습해서 나온 다차원의 GSV를 200~400차원의 i-vector(identity vector) 형태로 변환하는 작업을 말함.
 ><a href="https://www.slideshare.net/NaverEngineering/ss-117073508">References</a>
 
-#### kaldi(pykaldi)라는 Python에서 제공하는 툴로 추출이 가능함.  
+#### kaldi(pykaldi) 툴킷을 이용하여 추출함.  
 ><a href="https://kaldi-asr.org/doc/">kaldi</a>
 
 ## i-vector history
